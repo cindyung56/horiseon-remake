@@ -4,7 +4,7 @@
 
 This is an edited version of the Horiseon Services website. The HTML document and the CSS stylesheet both have been reflected to include semantic HTML elements instead of general div containers. This helps screen readers display content properly.
 
-Along the way, an error with the navigation links was also fixed so now all three links go to their respective sections on the page when clicked on.
+Along the way, an error with the navigation links was also fixed so now all three links go to their respective sections on the page when clicked on. Earlier, only two of the three links actually navigated to their respective section. Now all three work.
 
 ## Example
 
